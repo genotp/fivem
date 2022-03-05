@@ -3,9 +3,8 @@
 
 you should only have this page if you bought my cheat package at https://smokeydaabandit.selly.store/
    
-              FEATURES
+             FEATURES
       🍇🍊Grape Koolaid FiveM🍊🍇
-      
          Lua menu execution
       Execute custom Lua menus
  Trigger events via Lua to spawn money
